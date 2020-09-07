@@ -12,8 +12,8 @@
 | 名词           | 是什么               |
 | :------------- | :------------------- |
 | Node.js        | 是 JS 的一个 runtime |
-| npm            | 是 ……                |
-| npx            | 是 ……                |
+| npm            | 是npm（node package manager）node的包管理工具  |
+| npx            | 是npx 会执行依赖包里的二进制文件                |
 | nvm            | 是 ……                |
 | nrm            | 是 ……                |
 | yarn           | 是 ……                |
